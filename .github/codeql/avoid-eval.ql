@@ -5,6 +5,7 @@
  * @problem.severity warning
  * @precision high
  * @id py/custom/avoid-eval
+ * @tags security
  */
 
 import python
