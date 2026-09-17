@@ -1,0 +1,5 @@
+name: GHAS CodeQL Configuration
+
+queries:
+  - uses: security-and-quality
+  - uses: ./.github/codeql/avoid-eval.ql
