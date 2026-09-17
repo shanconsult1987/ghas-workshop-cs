@@ -1,0 +1,13 @@
+---
+sourceLocationPrefix: C:\Users\shivensingh\ghas-workshop-cs
+baselineLinesOfCode: 17
+unicodeNewlines: false
+columnKind: utf32
+primaryLanguage: python
+creationMetadata:
+  sha: c7aba0bbf634f2df7f1c73ca4bfbe07804852f02
+  cliVersion: 2.27.0
+  creationTime: 2026-09-17T08:01:36.252852100Z
+overlayBaseDatabase: false
+overlayDatabase: false
+finalised: true

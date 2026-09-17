@@ -1,0 +1,1 @@
+{"languages":{"javascript":{"displayName":"JavaScript/TypeScript","files":["app.js"],"linesOfCode":6,"name":"javascript"},"python":{"displayName":"Python","files":["app.py"],"linesOfCode":17,"name":"python"},"actions":{"displayName":"GitHub Actions","files":[".github/workflows/codeql.yml"],"linesOfCode":35,"name":"actions"}}}
